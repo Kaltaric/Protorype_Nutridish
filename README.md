@@ -1,2 +1,2 @@
-# Protorype_NutriDish
+# Prototype_NutriDish
 Prototype NutriDish
